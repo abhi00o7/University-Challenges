@@ -1,0 +1,14 @@
+
+;<Program title>
+MVI C,00H
+LDA 2000H
+MOV B,A
+LDA 2001H
+ADD B
+JNC start
+INR C
+;code
+start: STA 2002H
+MOV A,C
+STA 2003H
+HLT

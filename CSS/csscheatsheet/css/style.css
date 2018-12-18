@@ -1,0 +1,14 @@
+/*h1{
+    color:#22216c;
+}
+body{
+    background-color:coral;
+}*/
+.container{
+    width: 85%;
+    margin: auto;
+}
+.box-1{
+    background-color: #333;
+    color: #fff;
+}

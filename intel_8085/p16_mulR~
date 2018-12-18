@@ -1,0 +1,7 @@
+mvi b,05h
+mvi c,02h
+mov a,c
+rlc
+rlc
+sta 2011
+hlt

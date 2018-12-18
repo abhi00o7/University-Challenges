@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\kumar\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "code-runner.runInTerminal": true,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
