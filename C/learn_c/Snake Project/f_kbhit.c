@@ -1,0 +1,1 @@
+"We suffer not from the events in our life but the judgement about them."

@@ -1,0 +1,6 @@
+# A comma-separated list of package or module names from where C extensions may
+# be loaded. Extensions are loading into the active Python interpreter and may
+# run arbitrary code.
+disable=R,C;
+"python.linting.pylintArgs":
+ "--ignored-modules=cv2", "--ignored-classes=cv2", "--extension-pkg-whitelist=cv2" 

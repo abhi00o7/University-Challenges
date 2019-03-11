@@ -1,6 +1,6 @@
 import turtle
 tutu=turtle.Turtle("turtle")
-tutu.speed(1)
+tutu.speed(0)
 def pentagon(size,side):
     for i in range(side):
         tutu.forward(size)
