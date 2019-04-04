@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - overload",
+            "request": "launch",
+            "mainClass": "overload",
+            "projectName": "C0d3_ef598049"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "C0d3_ef598049"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - main",
             "request": "launch",
             "mainClass": "main",

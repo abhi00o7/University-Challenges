@@ -1,1 +1,1 @@
-image
+minSize=(20, 20)

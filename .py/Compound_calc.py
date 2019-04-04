@@ -1,7 +1,0 @@
-print("PROGRAM FOR CALCULATING COMPOUND AMOUNT")
-p=int(input("Principal Amount= "))
-r=float(input("Annual rate= "))
-n=int(input("No of times intrest is compounded per year= "))
-t=int(input("No of years the money is invested for= "))
-A=p*(1+(r/n))**(n*t)
-print("Required Amount is= ",A)
